@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="soopbaseball1" tvg-name="Soop 야구 1채널" group-title="SoopLive",Soop 야구 1채널
+https://global-media.sooplive.com/live/soopbaseball1/master.m3u8
+#EXTINF:-1 tvg-id="soopbaseball2" tvg-name="Soop 야구 2채널" group-title="SoopLive",Soop 야구 2채널
+https://global-media.sooplive.com/live/soopbaseball2/master.m3u8
+#EXTINF:-1 tvg-id="soopbaseball3" tvg-name="Soop 야구 3채널" group-title="SoopLive",Soop 야구 3채널
+https://global-media.sooplive.com/live/soopbaseball3/master.m3u8
+#EXTINF:-1 tvg-id="soopbaseball4" tvg-name="Soop 야구 4채널" group-title="SoopLive",Soop 야구 4채널
+https://global-media.sooplive.com/live/soopbaseball4/master.m3u8
+#EXTINF:-1 tvg-id="soopbaseball5" tvg-name="Soop 야구 5채널" group-title="SoopLive",Soop 야구 5채널
+https://global-media.sooplive.com/live/soopbaseball5/master.m3u8
