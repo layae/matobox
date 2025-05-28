@@ -5,26 +5,26 @@ plugin://plugin.video.wavvem/?mode=LIVE&contentid=K01&pvrmode=pvr
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=S01&pvrmode=pvr
 #EXTINF:0 tvg-ID="M01.wavve" tvg-name="MBC (wavve)" group-title="지상파" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/M01.jpg",MBC (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=M01&pvrmode=pvr
-#EXTINF:0 tvg-ID="E01.wavve" tvg-name="EBS 1 (wavve)" group-title="지상파" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/E01.jpg",EBS 1 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=E01&pvrmode=pvr
 #EXTINF:0 tvg-ID="K02.wavve" tvg-name="KBS 2TV (wavve)" group-title="지상파" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/KBS-2TV-1.jpg",KBS 2TV (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=K02&pvrmode=pvr
+#EXTINF:0 tvg-ID="E01.wavve" tvg-name="EBS 1 (wavve)" group-title="지상파" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/E01.jpg",EBS 1 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=E01&pvrmode=pvr
 #EXTINF:0 tvg-ID="E07.wavve" tvg-name="EBS 2 (wavve)" group-title="지상파" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/E07.jpg",EBS 2 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=E07&pvrmode=pvr
+#EXTINF:0 tvg-ID="C2601.wavve" tvg-name="TV CHOSUN (wavve)" group-title="종편/보도" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2601_Img_20210612162051.jpg",TV CHOSUN (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2601&pvrmode=pvr
 #EXTINF:0 tvg-ID="C2101.wavve" tvg-name="YTN (wavve)" group-title="종편/보도" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/C2101.jpg",YTN (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2101&pvrmode=pvr
 #EXTINF:0 tvg-ID="Y01.wavve" tvg-name="연합뉴스TV (wavve)" group-title="종편/보도" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/Y01.jpg",연합뉴스TV (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=Y01&pvrmode=pvr
-#EXTINF:0 tvg-ID="C2501.wavve" tvg-name="채널A (wavve)" group-title="종편/보도" tvg-logo="https://image.wavve.com/channel_mgmt/image/C2501_main_20240723141822.jpg",채널A (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2501&pvrmode=pvr
 #EXTINF:0 tvg-ID="C2401.wavve" tvg-name="MBN (wavve)" group-title="종편/보도" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/C2401_Img_20191125101746.jpg",MBN (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2401&pvrmode=pvr
 #EXTINF:0 tvg-ID="F2101.wavve" tvg-name="한국경제TV (wavve)" group-title="종편/보도" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F2101_Img_20201013140748.jpg",한국경제TV (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=F2101&pvrmode=pvr
 #EXTINF:0 tvg-ID="F2001.wavve" tvg-name="매일경제TV (wavve)" group-title="종편/보도" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F2001_Img_20201117230801.jpg",매일경제TV (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=F2001&pvrmode=pvr
-#EXTINF:0 tvg-ID="C2601.wavve" tvg-name="TV CHOSUN (wavve)" group-title="종편/보도" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2601_Img_20210612162051.jpg",TV CHOSUN (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2601&pvrmode=pvr
+#EXTINF:0 tvg-ID="C2501.wavve" tvg-name="채널A (wavve)" group-title="종편/보도" tvg-logo="https://image.wavve.com/channel_mgmt/image/C2501_main_20240723141822.jpg",채널A (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2501&pvrmode=pvr
 #EXTINF:0 tvg-ID="F4301.wavve" tvg-name="머니투데이방송 (wavve)" group-title="종편/보도" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F4301_Img_20210818232937.jpg",머니투데이방송 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=F4301&pvrmode=pvr
 #EXTINF:0 tvg-ID="S06.wavve" tvg-name="SBS Biz (wavve)" group-title="종편/보도" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/S06_Img_20201229154431.jpg",SBS Biz (wavve)
@@ -33,96 +33,96 @@ plugin://plugin.video.wavvem/?mode=LIVE&contentid=S06&pvrmode=pvr
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=K12&pvrmode=pvr
 #EXTINF:0 tvg-ID="K25.wavve" tvg-name="CGTN (wavve)" group-title="종편/보도" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/CGTN-1.jpg",CGTN (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=K25&pvrmode=pvr
-#EXTINF:0 tvg-ID="F2501.wavve" tvg-name="THE MOVIE (wavve)" group-title="영화" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F2501_Img_20201127183840.jpg",THE MOVIE (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=F2501&pvrmode=pvr
-#EXTINF:0 tvg-ID="H07.wavve" tvg-name="PLAYY 액션영화 (wavve)" group-title="영화" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/H07.jpg",PLAYY 액션영화 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=H07&pvrmode=pvr
-#EXTINF:0 tvg-ID="F2601.wavve" tvg-name="씨네트리 (wavve)" group-title="영화" tvg-logo="https://image.wavve.com/channel_mgmt/image/F2601_main_20250428184004.jpg",씨네트리 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=F2601&pvrmode=pvr
 #EXTINF:0 tvg-ID="C5102.wavve" tvg-name="AsiaM (wavve)" group-title="영화" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C5102_Img_20201127184619.jpg",AsiaM (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=C5102&pvrmode=pvr
-#EXTINF:0 tvg-ID="H01.wavve" tvg-name="PLAYY 웰메이드 영화 (wavve)" group-title="영화" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/H01.jpg",PLAYY 웰메이드 영화 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=H01&pvrmode=pvr
-#EXTINF:0 tvg-ID="H02.wavve" tvg-name="PLAYY 프리미엄 영화 (wavve)" group-title="영화" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/H02.jpg",PLAYY 프리미엄 영화 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=H02&pvrmode=pvr
+#EXTINF:0 tvg-ID="F2501.wavve" tvg-name="THE MOVIE (wavve)" group-title="영화" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F2501_Img_20201127183840.jpg",THE MOVIE (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=F2501&pvrmode=pvr
 #EXTINF:0 tvg-ID="H05.wavve" tvg-name="시네마천국 (wavve)" group-title="영화" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/H05_Img_20201127184140.jpg",시네마천국 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=H05&pvrmode=pvr
-#EXTINF:0 tvg-ID="M14.wavve" tvg-name="MBC ON (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/M14_Img_20200611005554.jpg",MBC ON (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=M14&pvrmode=pvr
+#EXTINF:0 tvg-ID="H02.wavve" tvg-name="PLAYY 프리미엄 영화 (wavve)" group-title="영화" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/H02.jpg",PLAYY 프리미엄 영화 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=H02&pvrmode=pvr
+#EXTINF:0 tvg-ID="F2601.wavve" tvg-name="씨네트리 (wavve)" group-title="영화" tvg-logo="https://image.wavve.com/channel_mgmt/image/F2601_main_20250428184004.jpg",씨네트리 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=F2601&pvrmode=pvr
+#EXTINF:0 tvg-ID="H01.wavve" tvg-name="PLAYY 웰메이드 영화 (wavve)" group-title="영화" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/H01.jpg",PLAYY 웰메이드 영화 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=H01&pvrmode=pvr
+#EXTINF:0 tvg-ID="H07.wavve" tvg-name="PLAYY 액션영화 (wavve)" group-title="영화" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/H07.jpg",PLAYY 액션영화 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=H07&pvrmode=pvr
 #EXTINF:0 tvg-ID="M03.wavve" tvg-name="MBC Every1 (wavve)" group-title="드라마/예능" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/M03.jpg",MBC Every1 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=M03&pvrmode=pvr
+#EXTINF:0 tvg-ID="M14.wavve" tvg-name="MBC ON (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/M14_Img_20200611005554.jpg",MBC ON (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=M14&pvrmode=pvr
 #EXTINF:0 tvg-ID="K04.wavve" tvg-name="KBS JOY (wavve)" group-title="드라마/예능" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/K04.jpg",KBS JOY (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=K04&pvrmode=pvr
 #EXTINF:0 tvg-ID="S03.wavve" tvg-name="SBS Plus (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/S03_Img_20220119180558.jpg",SBS Plus (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=S03&pvrmode=pvr
-#EXTINF:0 tvg-ID="C2602.wavve" tvg-name="TV CHOSUN2 (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2602_Img_20210608164002.jpg",TV CHOSUN2 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2602&pvrmode=pvr
-#EXTINF:0 tvg-ID="S04.wavve" tvg-name="SBS funE (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/S04_Img_20220105112535.jpg",SBS funE (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=S04&pvrmode=pvr
-#EXTINF:0 tvg-ID="M02.wavve" tvg-name="MBC Drama (wavve)" group-title="드라마/예능" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/M02.jpg",MBC Drama (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=M02&pvrmode=pvr
-#EXTINF:0 tvg-ID="K09.wavve" tvg-name="KBS Story (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/K09_Img_20210401135323.jpg",KBS Story (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=K09&pvrmode=pvr
-#EXTINF:0 tvg-ID="S23.wavve" tvg-name="빽드 (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/S23_Img_20230308160502.jpg",빽드 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=S23&pvrmode=pvr
-#EXTINF:0 tvg-ID="C8101.wavve" tvg-name="위라이크 (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C8101_Img_20221104141737.jpg",위라이크 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C8101&pvrmode=pvr
-#EXTINF:0 tvg-ID="C2402.wavve" tvg-name="MBN 플러스 (wavve)" group-title="드라마/예능" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/C2402_Img_20191125102051.jpg",MBN 플러스 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2402&pvrmode=pvr
-#EXTINF:0 tvg-ID="X02.wavve" tvg-name="FUNTV (wavve)" group-title="드라마/예능" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/X02_Img_20191001110820.jpg",FUNTV (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=X02&pvrmode=pvr
-#EXTINF:0 tvg-ID="X01.wavve" tvg-name="EDGETV (wavve)" group-title="드라마/예능" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/X01_Img_20191001110604.jpg",EDGETV (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=X01&pvrmode=pvr
-#EXTINF:0 tvg-ID="K06.wavve" tvg-name="KBS DRAMA (wavve)" group-title="드라마/예능" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/K06.jpg",KBS DRAMA (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=K06&pvrmode=pvr
 #EXTINF:0 tvg-ID="M06.wavve" tvg-name="MBC M (wavve)" group-title="드라마/예능" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/M06_Img_20200218143229.jpg",MBC M (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=M06&pvrmode=pvr
-#EXTINF:0 tvg-ID="F5602.wavve" tvg-name="SmileTV Plus (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F5602_Img_20220204173351.jpg",SmileTV Plus (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=F5602&pvrmode=pvr
+#EXTINF:0 tvg-ID="M02.wavve" tvg-name="MBC Drama (wavve)" group-title="드라마/예능" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/M02.jpg",MBC Drama (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=M02&pvrmode=pvr
+#EXTINF:0 tvg-ID="K06.wavve" tvg-name="KBS DRAMA (wavve)" group-title="드라마/예능" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/K06.jpg",KBS DRAMA (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=K06&pvrmode=pvr
+#EXTINF:0 tvg-ID="X01.wavve" tvg-name="EDGETV (wavve)" group-title="드라마/예능" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/X01_Img_20191001110604.jpg",EDGETV (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=X01&pvrmode=pvr
+#EXTINF:0 tvg-ID="S04.wavve" tvg-name="SBS funE (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/S04_Img_20220105112535.jpg",SBS funE (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=S04&pvrmode=pvr
+#EXTINF:0 tvg-ID="C2602.wavve" tvg-name="TV CHOSUN2 (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2602_Img_20210608164002.jpg",TV CHOSUN2 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2602&pvrmode=pvr
+#EXTINF:0 tvg-ID="S23.wavve" tvg-name="빽드 (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/S23_Img_20230308160502.jpg",빽드 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=S23&pvrmode=pvr
+#EXTINF:0 tvg-ID="X02.wavve" tvg-name="FUNTV (wavve)" group-title="드라마/예능" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/X02_Img_20191001110820.jpg",FUNTV (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=X02&pvrmode=pvr
+#EXTINF:0 tvg-ID="C2402.wavve" tvg-name="MBN 플러스 (wavve)" group-title="드라마/예능" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/C2402_Img_20191125102051.jpg",MBN 플러스 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2402&pvrmode=pvr
 #EXTINF:0 tvg-ID="S22.wavve" tvg-name="SBS Life (wavve)" group-title="드라마/예능" tvg-logo="https://image.wavve.com/channel_mgmt/image/S22_main_20241202152824.jpg",SBS Life (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=S22&pvrmode=pvr
-#EXTINF:0 tvg-ID="K05.wavve" tvg-name="KBS Life (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/K05_Img_20210401135119.jpg",KBS Life (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=K05&pvrmode=pvr
 #EXTINF:0 tvg-ID="C2502.wavve" tvg-name="채널A 플러스 (wavve)" group-title="드라마/예능" tvg-logo="https://image.wavve.com/channel_mgmt/image/C2502_main_20241230112314.jpg",채널A 플러스 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2502&pvrmode=pvr
+#EXTINF:0 tvg-ID="K09.wavve" tvg-name="KBS Story (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/K09_Img_20210401135323.jpg",KBS Story (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=K09&pvrmode=pvr
+#EXTINF:0 tvg-ID="C8101.wavve" tvg-name="위라이크 (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C8101_Img_20221104141737.jpg",위라이크 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C8101&pvrmode=pvr
 #EXTINF:0 tvg-ID="F5601.wavve" tvg-name="TVasia Plus (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F5601_Img_20220204173048.jpg",TVasia Plus (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=F5601&pvrmode=pvr
+#EXTINF:0 tvg-ID="K05.wavve" tvg-name="KBS Life (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/K05_Img_20210401135119.jpg",KBS Life (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=K05&pvrmode=pvr
+#EXTINF:0 tvg-ID="F5602.wavve" tvg-name="SmileTV Plus (wavve)" group-title="드라마/예능" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F5602_Img_20220204173351.jpg",SmileTV Plus (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=F5602&pvrmode=pvr
 #EXTINF:0 tvg-ID="K31.wavve" tvg-name="KBS 사랑과전쟁 (wavve)" group-title="정주행 채널" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/K31_Img_20210916114439.jpg",KBS 사랑과전쟁 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=K31&pvrmode=pvr
+#EXTINF:0 tvg-ID="PM1.wavve" tvg-name="MBC 무한도전 (wavve)" group-title="정주행 채널" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/PM1.jpg",MBC 무한도전 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=PM1&pvrmode=pvr
+#EXTINF:0 tvg-ID="K15.wavve" tvg-name="KBS 1박 2일 (wavve)" group-title="정주행 채널" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/K15.jpg",KBS 1박 2일 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=K15&pvrmode=pvr
 #EXTINF:0 tvg-ID="C5202.wavve" tvg-name="iHQ 맛있는녀석들 (wavve)" group-title="정주행 채널" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/delicious-1.jpg",iHQ 맛있는녀석들 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=C5202&pvrmode=pvr
 #EXTINF:0 tvg-ID="S16.wavve" tvg-name="런닝맨 (wavve)" group-title="정주행 채널" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/S16-1.jpg",런닝맨 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=S16&pvrmode=pvr
-#EXTINF:0 tvg-ID="PM1.wavve" tvg-name="MBC 무한도전 (wavve)" group-title="정주행 채널" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/PM1.jpg",MBC 무한도전 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=PM1&pvrmode=pvr
 #EXTINF:0 tvg-ID="M15.wavve" tvg-name="MBC 하이킥24 LIVE (wavve)" group-title="정주행 채널" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/M15_Img_20200630170512.jpg",MBC 하이킥24 LIVE (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=M15&pvrmode=pvr
-#EXTINF:0 tvg-ID="K15.wavve" tvg-name="KBS 1박 2일 (wavve)" group-title="정주행 채널" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/K15.jpg",KBS 1박 2일 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=K15&pvrmode=pvr
 #EXTINF:0 tvg-ID="S18.wavve" tvg-name="레전드 시트콤 (wavve)" group-title="정주행 채널" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/S18-1.jpg",레전드 시트콤 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=S18&pvrmode=pvr
-#EXTINF:0 tvg-ID="K30.wavve" tvg-name="KBS 주말명작 (wavve)" group-title="정주행 채널" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/K30_Img_20210603111124.jpg",KBS 주말명작 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=K30&pvrmode=pvr
 #EXTINF:0 tvg-ID="PM2.wavve" tvg-name="MBC 나 혼자 산다 (wavve)" group-title="정주행 채널" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/PM2.jpg",MBC 나 혼자 산다 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=PM2&pvrmode=pvr
-#EXTINF:0 tvg-ID="M13.wavve" tvg-name="MBC 서프라이즈 (wavve)" group-title="정주행 채널" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/surprise.jpg",MBC 서프라이즈 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=M13&pvrmode=pvr
 #EXTINF:0 tvg-ID="K29.wavve" tvg-name="KBS 사극 (wavve)" group-title="정주행 채널" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/K29_Img_20210324183641.jpg",KBS 사극 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=K29&pvrmode=pvr
-#EXTINF:0 tvg-ID="S20.wavve" tvg-name="스브스갓드 (wavve)" group-title="정주행 채널" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/S20_Img_20220209105615.jpg",스브스갓드 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=S20&pvrmode=pvr
+#EXTINF:0 tvg-ID="M13.wavve" tvg-name="MBC 서프라이즈 (wavve)" group-title="정주행 채널" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/surprise.jpg",MBC 서프라이즈 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=M13&pvrmode=pvr
 #EXTINF:0 tvg-ID="S15.wavve" tvg-name="TV동물농장 (wavve)" group-title="정주행 채널" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/S15-1.jpg",TV동물농장 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=S15&pvrmode=pvr
 #EXTINF:0 tvg-ID="K28.wavve" tvg-name="연애의 참견 (wavve)" group-title="정주행 채널" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/K28_Img_20210125133848.jpg",연애의 참견 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=K28&pvrmode=pvr
-#EXTINF:0 tvg-ID="S19.wavve" tvg-name="내 남자의 여자 (wavve)" group-title="정주행 채널" tvg-logo="https://image.wavve.com/channel_mgmt/image/S19_main_20250502154248.jpg",내 남자의 여자 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=S19&pvrmode=pvr
+#EXTINF:0 tvg-ID="S20.wavve" tvg-name="스브스갓드 (wavve)" group-title="정주행 채널" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/S20_Img_20220209105615.jpg",스브스갓드 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=S20&pvrmode=pvr
 #EXTINF:0 tvg-ID="M12.wavve" tvg-name="MBC 라디오스타 (wavve)" group-title="정주행 채널" tvg-logo="http://img.pooq.co.kr/BMS/ChannelImg/radiostar_channel_re.jpg",MBC 라디오스타 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=M12&pvrmode=pvr
-#EXTINF:0 tvg-ID="C5203.wavve" tvg-name="iHQ 뚱TV (wavve)" group-title="정주행 채널" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C5203_Img_20210426110340.jpg",iHQ 뚱TV (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C5203&pvrmode=pvr
+#EXTINF:0 tvg-ID="K30.wavve" tvg-name="KBS 주말명작 (wavve)" group-title="정주행 채널" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/K30_Img_20210603111124.jpg",KBS 주말명작 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=K30&pvrmode=pvr
 #EXTINF:0 tvg-ID="S17.wavve" tvg-name="미우새 (wavve)" group-title="정주행 채널" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/S17.jpg",미우새 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=S17&pvrmode=pvr
+#EXTINF:0 tvg-ID="S19.wavve" tvg-name="내 남자의 여자 (wavve)" group-title="정주행 채널" tvg-logo="https://image.wavve.com/channel_mgmt/image/S19_main_20250502154248.jpg",내 남자의 여자 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=S19&pvrmode=pvr
+#EXTINF:0 tvg-ID="C5203.wavve" tvg-name="iHQ 뚱TV (wavve)" group-title="정주행 채널" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C5203_Img_20210426110340.jpg",iHQ 뚱TV (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C5203&pvrmode=pvr
 #EXTINF:0 tvg-ID="M16.wavve" tvg-name="MBC 드라마정주행24 LIVE (wavve)" group-title="정주행 채널" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/M16_Img_20200630170903.jpg",MBC 드라마정주행24 LIVE (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=M16&pvrmode=pvr
 #EXTINF:0 tvg-ID="M17.wavve" tvg-name="MBC 예능정주행24 LIVE (wavve)" group-title="정주행 채널" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/M17_Img_20200630171356.jpg",MBC 예능정주행24 LIVE (wavve)
@@ -133,68 +133,48 @@ plugin://plugin.video.wavvem/?mode=LIVE&contentid=F3301&pvrmode=pvr
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=S14&pvrmode=pvr
 #EXTINF:0 tvg-ID="A01.wavve" tvg-name="ANIMAX (wavve)" group-title="애니/키즈" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/A01.jpg",ANIMAX (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=A01&pvrmode=pvr
-#EXTINF:0 tvg-ID="C4402.wavve" tvg-name="ANIONE (wavve)" group-title="애니/키즈" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/ANIONE.jpg",ANIONE (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C4402&pvrmode=pvr
 #EXTINF:0 tvg-ID="C6802.wavve" tvg-name="브라보키즈 (wavve)" group-title="애니/키즈" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C6802_Img_20200826082858.jpg",브라보키즈 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=C6802&pvrmode=pvr
+#EXTINF:0 tvg-ID="C4402.wavve" tvg-name="ANIONE (wavve)" group-title="애니/키즈" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/ANIONE.jpg",ANIONE (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C4402&pvrmode=pvr
 #EXTINF:0 tvg-ID="C4401.wavve" tvg-name="ANIBOX (wavve)" group-title="애니/키즈" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/C4401.jpg",ANIBOX (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=C4401&pvrmode=pvr
 #EXTINF:0 tvg-ID="E05.wavve" tvg-name="EBS 키즈 (wavve)" group-title="애니/키즈" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/E05.jpg",EBS 키즈 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=E05&pvrmode=pvr
 #EXTINF:0 tvg-ID="C8401.wavve" tvg-name="CN PLAY (wavve)" group-title="해외채널" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/Channel_China-1.jpg",CN PLAY (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=C8401&pvrmode=pvr
-#EXTINF:0 tvg-ID="C5501.wavve" tvg-name="채널J (wavve)" group-title="해외채널" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/C5501.jpg",채널J (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C5501&pvrmode=pvr
 #EXTINF:0 tvg-ID="C5101.wavve" tvg-name="AsiaN (wavve)" group-title="해외채널" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/C5101.jpg",AsiaN (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=C5101&pvrmode=pvr
-#EXTINF:0 tvg-ID="C4101.wavve" tvg-name="현대홈쇼핑 (wavve)" group-title="홈쇼핑" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/C4101.jpg",현대홈쇼핑 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C4101&pvrmode=pvr
-#EXTINF:0 tvg-ID="F2701.wavve" tvg-name="SK스토아 (wavve)" group-title="홈쇼핑" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F2701_Img_20210308162242.jpg",SK스토아 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=F2701&pvrmode=pvr
-#EXTINF:0 tvg-ID="C4102.wavve" tvg-name="현대홈쇼핑+샵 (wavve)" group-title="홈쇼핑" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/C4101.jpg",현대홈쇼핑+샵 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C4102&pvrmode=pvr
-#EXTINF:0 tvg-ID="C4201.wavve" tvg-name="GS SHOP (wavve)" group-title="홈쇼핑" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/C4201.jpg",GS SHOP (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C4201&pvrmode=pvr
-#EXTINF:0 tvg-ID="C4202.wavve" tvg-name="GS MY SHOP (wavve)" group-title="홈쇼핑" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/C4202.jpg",GS MY SHOP (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C4202&pvrmode=pvr
-#EXTINF:0 tvg-ID="C8302.wavve" tvg-name="NS SHOP+ (wavve)" group-title="홈쇼핑" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/nsshopplus-1.jpg",NS SHOP+ (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C8302&pvrmode=pvr
-#EXTINF:0 tvg-ID="C5601.wavve" tvg-name="롯데홈쇼핑 (wavve)" group-title="홈쇼핑" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/lotte-1.png",롯데홈쇼핑 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C5601&pvrmode=pvr
-#EXTINF:0 tvg-ID="C8301.wavve" tvg-name="NS홈쇼핑 (wavve)" group-title="홈쇼핑" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/NShomeshopping-1.jpg",NS홈쇼핑 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C8301&pvrmode=pvr
-#EXTINF:0 tvg-ID="C5602.wavve" tvg-name="롯데홈쇼핑 ONETV (wavve)" group-title="홈쇼핑" tvg-logo="https://img.pooq.co.kr/BMS/Channelimage30/image/C5602_Img_20191230135745.jpg",롯데홈쇼핑 ONETV (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C5602&pvrmode=pvr
-#EXTINF:0 tvg-ID="F1401.wavve" tvg-name="KT알파 쇼핑 (wavve)" group-title="홈쇼핑" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F1401_Img_20220531162338.jpg",KT알파 쇼핑 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=F1401&pvrmode=pvr
-#EXTINF:0 tvg-ID="K08.wavve" tvg-name="KBSCOOLFM (wavve)" group-title="라디오/음악" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/K08.jpg" radio="true",KBSCOOLFM (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=K08&pvrmode=pvr
+#EXTINF:0 tvg-ID="C5501.wavve" tvg-name="채널J (wavve)" group-title="해외채널" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/C5501.jpg",채널J (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C5501&pvrmode=pvr
 #EXTINF:0 tvg-ID="S07.wavve" tvg-name="SBS 파워FM (wavve)" group-title="라디오/음악" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/S07.jpg" radio="true",SBS 파워FM (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=S07&pvrmode=pvr
-#EXTINF:0 tvg-ID="M07.wavve" tvg-name="MBC 표준 FM (wavve)" group-title="라디오/음악" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/M07.jpg" radio="true",MBC 표준 FM (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=M07&pvrmode=pvr
 #EXTINF:0 tvg-ID="M08.wavve" tvg-name="MBC FM4U (wavve)" group-title="라디오/음악" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/M08.jpg" radio="true",MBC FM4U (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=M08&pvrmode=pvr
 #EXTINF:0 tvg-ID="C2701.wavve" tvg-name="KISS - 최신인기가요 (wavve)" group-title="라디오/음악" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2701_Img_20230503181419.jpg" radio="true",KISS - 최신인기가요 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2701&pvrmode=pvr
 #EXTINF:0 tvg-ID="C2713.wavve" tvg-name="KISS - 탑골 K-POP (wavve)" group-title="라디오/음악" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2713_Img_20230503183048.jpg" radio="true",KISS - 탑골 K-POP (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2713&pvrmode=pvr
+#EXTINF:0 tvg-ID="K08.wavve" tvg-name="KBSCOOLFM (wavve)" group-title="라디오/음악" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/K08.jpg" radio="true",KBSCOOLFM (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=K08&pvrmode=pvr
+#EXTINF:0 tvg-ID="M07.wavve" tvg-name="MBC 표준 FM (wavve)" group-title="라디오/음악" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/M07.jpg" radio="true",MBC 표준 FM (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=M07&pvrmode=pvr
+#EXTINF:0 tvg-ID="C2702.wavve" tvg-name="KISS - 당신을 위한 발라드 (wavve)" group-title="라디오/음악" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2702_Img_20230503181626.jpg" radio="true",KISS - 당신을 위한 발라드 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2702&pvrmode=pvr
 #EXTINF:0 tvg-ID="C2705.wavve" tvg-name="KISS - 2000년대 인기가요 (wavve)" group-title="라디오/음악" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2705_Img_20230503181841.jpg" radio="true",KISS - 2000년대 인기가요 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2705&pvrmode=pvr
 #EXTINF:0 tvg-ID="C2708.wavve" tvg-name="KISS - 클래식 산책 (wavve)" group-title="라디오/음악" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2708_Img_20230503180804.jpg" radio="true",KISS - 클래식 산책 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2708&pvrmode=pvr
-#EXTINF:0 tvg-ID="C2710.wavve" tvg-name="KISS - 키스 더 트롯 (wavve)" group-title="라디오/음악" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2710_Img_20230503182849.jpg" radio="true",KISS - 키스 더 트롯 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2710&pvrmode=pvr
-#EXTINF:0 tvg-ID="C2702.wavve" tvg-name="KISS - 당신을 위한 발라드 (wavve)" group-title="라디오/음악" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2702_Img_20230503181626.jpg" radio="true",KISS - 당신을 위한 발라드 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2702&pvrmode=pvr
-#EXTINF:0 tvg-ID="C2706.wavve" tvg-name="KISS - 재즈 라운지 (wavve)" group-title="라디오/음악" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2706_Img_20230503182111.jpg" radio="true",KISS - 재즈 라운지 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2706&pvrmode=pvr
 #EXTINF:0 tvg-ID="C2709.wavve" tvg-name="KISS - 한국인이 사랑한 팝송 (wavve)" group-title="라디오/음악" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2709_Img_20230503182612.jpg" radio="true",KISS - 한국인이 사랑한 팝송 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2709&pvrmode=pvr
-#EXTINF:0 tvg-ID="K07.wavve" tvg-name="KBS1RADIO (wavve)" group-title="라디오/음악" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/K07.jpg" radio="true",KBS1RADIO (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=K07&pvrmode=pvr
+#EXTINF:0 tvg-ID="C2706.wavve" tvg-name="KISS - 재즈 라운지 (wavve)" group-title="라디오/음악" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2706_Img_20230503182111.jpg" radio="true",KISS - 재즈 라운지 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2706&pvrmode=pvr
+#EXTINF:0 tvg-ID="C2710.wavve" tvg-name="KISS - 키스 더 트롯 (wavve)" group-title="라디오/음악" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2710_Img_20230503182849.jpg" radio="true",KISS - 키스 더 트롯 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2710&pvrmode=pvr
 #EXTINF:0 tvg-ID="C2703.wavve" tvg-name="KISS - 응답하라 8090 (wavve)" group-title="라디오/음악" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2703_Img_20230503175926.jpg" radio="true",KISS - 응답하라 8090 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2703&pvrmode=pvr
+#EXTINF:0 tvg-ID="K07.wavve" tvg-name="KBS1RADIO (wavve)" group-title="라디오/음악" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/K07.jpg" radio="true",KBS1RADIO (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=K07&pvrmode=pvr
 #EXTINF:0 tvg-ID="S08.wavve" tvg-name="SBS 러브FM (wavve)" group-title="라디오/음악" tvg-logo="http://img.pooq.co.kr/BMS/Channelimage30/image/S08.jpg" radio="true",SBS 러브FM (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=S08&pvrmode=pvr
 #EXTINF:0 tvg-ID="C2107.wavve" tvg-name="YTN 라디오 (wavve)" group-title="라디오/음악" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2107_Img_20200805153857.jpg" radio="true",YTN 라디오 (wavve)
@@ -215,34 +195,34 @@ plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2412&pvrmode=pvr
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=K36&pvrmode=pvr
 #EXTINF:0 tvg-ID="K37.wavve" tvg-name="KBS 인간극장 (wavve)" group-title="-" tvg-logo="https://image.wavve.com/channel_mgmt/image/K37_main_20250304140039.jpg",KBS 인간극장 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=K37&pvrmode=pvr
-#EXTINF:0 tvg-ID="C3515.wavve" tvg-name="CJ ONSTYLE (wavve)" group-title="-" tvg-logo="https://image.wavve.com/channel_mgmt/image/C3515_main_20250408185045.jpg",CJ ONSTYLE (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C3515&pvrmode=pvr
-#EXTINF:0 tvg-ID="C6102.wavve" tvg-name="애니플러스 (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C6102_Img_20220308191422.jpg",애니플러스 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C6102&pvrmode=pvr
-#EXTINF:0 tvg-ID="C2411.wavve" tvg-name="MBN 특종세상 (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2411_Img_20230302075957.jpg",MBN 특종세상 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2411&pvrmode=pvr
-#EXTINF:0 tvg-ID="C3516.wavve" tvg-name="CJ ONSTYLE PLUS (wavve)" group-title="-" tvg-logo="https://image.wavve.com/channel_mgmt/image/C3516_main_20250408185152.jpg",CJ ONSTYLE PLUS (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C3516&pvrmode=pvr
-#EXTINF:0 tvg-ID="C2604.wavve" tvg-name="TV CHOSUN 골프왕 (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2604_Img_20220923140302.jpg",TV CHOSUN 골프왕 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2604&pvrmode=pvr
-#EXTINF:0 tvg-ID="S25.wavve" tvg-name="백종원의 골목식당 (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/S25_Img_20220324135403.jpg",백종원의 골목식당 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=S25&pvrmode=pvr
-#EXTINF:0 tvg-ID="C5702.wavve" tvg-name="E채널 토요일은 밥이 좋아 (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C5702_Img_20220308184241.jpg",E채널 토요일은 밥이 좋아 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C5702&pvrmode=pvr
-#EXTINF:0 tvg-ID="J2801.wavve" tvg-name="CARTOONITO (wavve)" group-title="-" tvg-logo="https://image.wavve.com/channel_mgmt/image/J2801_main_20241219133111.jpg",CARTOONITO (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=J2801&pvrmode=pvr
-#EXTINF:0 tvg-ID="F6301.wavve" tvg-name="k-star (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F6301_Img_20220411141732.jpg",k-star (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=F6301&pvrmode=pvr
-#EXTINF:0 tvg-ID="F0102.wavve" tvg-name="포켓몬스터 (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F0102_Img_20220308222702.jpg",포켓몬스터 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=F0102&pvrmode=pvr
-#EXTINF:0 tvg-ID="C2603.wavve" tvg-name="TV CHOSUN 미스터트롯2 - 새로운 전설의 시작 (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2603_Img_20230111154622.jpg",TV CHOSUN 미스터트롯2 - 새로운 전설의 시작 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2603&pvrmode=pvr
 #EXTINF:0 tvg-ID="F9901.wavve" tvg-name="OGN (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F9901_Img_20230926133826.jpg",OGN (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=F9901&pvrmode=pvr
-#EXTINF:0 tvg-ID="F1214.wavve" tvg-name="Original 모든패밀리 (wavve)" group-title="-" tvg-logo="https://image.wavve.com/channel_mgmt/image/F1214_main_20250421100358.jpg",Original 모든패밀리 (wavve)
-plugin://plugin.video.wavvem/?mode=LIVE&contentid=F1214&pvrmode=pvr
+#EXTINF:0 tvg-ID="C6102.wavve" tvg-name="애니플러스 (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C6102_Img_20220308191422.jpg",애니플러스 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C6102&pvrmode=pvr
+#EXTINF:0 tvg-ID="S25.wavve" tvg-name="백종원의 골목식당 (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/S25_Img_20220324135403.jpg",백종원의 골목식당 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=S25&pvrmode=pvr
+#EXTINF:0 tvg-ID="C3516.wavve" tvg-name="CJ ONSTYLE PLUS (wavve)" group-title="-" tvg-logo="https://image.wavve.com/channel_mgmt/image/C3516_main_20250408185152.jpg",CJ ONSTYLE PLUS (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C3516&pvrmode=pvr
+#EXTINF:0 tvg-ID="C2411.wavve" tvg-name="MBN 특종세상 (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2411_Img_20230302075957.jpg",MBN 특종세상 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2411&pvrmode=pvr
+#EXTINF:0 tvg-ID="C2604.wavve" tvg-name="TV CHOSUN 골프왕 (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2604_Img_20220923140302.jpg",TV CHOSUN 골프왕 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2604&pvrmode=pvr
+#EXTINF:0 tvg-ID="F6301.wavve" tvg-name="k-star (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F6301_Img_20220411141732.jpg",k-star (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=F6301&pvrmode=pvr
+#EXTINF:0 tvg-ID="C5702.wavve" tvg-name="E채널 토요일은 밥이 좋아 (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C5702_Img_20220308184241.jpg",E채널 토요일은 밥이 좋아 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C5702&pvrmode=pvr
+#EXTINF:0 tvg-ID="C3515.wavve" tvg-name="CJ ONSTYLE (wavve)" group-title="-" tvg-logo="https://image.wavve.com/channel_mgmt/image/C3515_main_20250408185045.jpg",CJ ONSTYLE (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C3515&pvrmode=pvr
 #EXTINF:0 tvg-ID="F1221.wavve" tvg-name="Original 영화 (wavve)" group-title="-" tvg-logo="https://image.wavve.com/channel_mgmt/image/F1221_main_20241014101146.jpg",Original 영화 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=F1221&pvrmode=pvr
+#EXTINF:0 tvg-ID="C2603.wavve" tvg-name="TV CHOSUN 미스터트롯2 - 새로운 전설의 시작 (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/C2603_Img_20230111154622.jpg",TV CHOSUN 미스터트롯2 - 새로운 전설의 시작 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=C2603&pvrmode=pvr
+#EXTINF:0 tvg-ID="F0102.wavve" tvg-name="포켓몬스터 (wavve)" group-title="-" tvg-logo="https://img.wavve.com/BMS/Channelimage30/image/F0102_Img_20220308222702.jpg",포켓몬스터 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=F0102&pvrmode=pvr
+#EXTINF:0 tvg-ID="J2801.wavve" tvg-name="CARTOONITO (wavve)" group-title="-" tvg-logo="https://image.wavve.com/channel_mgmt/image/J2801_main_20241219133111.jpg",CARTOONITO (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=J2801&pvrmode=pvr
+#EXTINF:0 tvg-ID="F1214.wavve" tvg-name="Original 모든패밀리 (wavve)" group-title="-" tvg-logo="https://image.wavve.com/channel_mgmt/image/F1214_main_20250421100358.jpg",Original 모든패밀리 (wavve)
+plugin://plugin.video.wavvem/?mode=LIVE&contentid=F1214&pvrmode=pvr
 #EXTINF:0 tvg-ID="F1222.wavve" tvg-name="Wavve에서 오늘 뭐보지 (wavve)" group-title="-" tvg-logo="https://image.wavve.com/channel_mgmt/image/F1222_main.jpg",Wavve에서 오늘 뭐보지 (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=F1222&pvrmode=pvr
 #EXTINF:0 tvg-ID="J1702.wavve" tvg-name="The M (wavve)" group-title="-" tvg-logo="https://image.wavve.com/channel_mgmt/image/J1702_main_20250514103114.jpg",The M (wavve)
