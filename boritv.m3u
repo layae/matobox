@@ -227,3 +227,71 @@ plugin://plugin.video.wavvem/?mode=LIVE&contentid=F1214&pvrmode=pvr
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=F1222&pvrmode=pvr
 #EXTINF:0 tvg-ID="J1702.wavve" tvg-name="The M (wavve)" group-title="-" tvg-logo="https://image.wavve.com/channel_mgmt/image/J1702_main_20250514103114.jpg",The M (wavve)
 plugin://plugin.video.wavvem/?mode=LIVE&contentid=J1702&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00551.tving" tvg-name="tvN (tving)" group-title="지상파" tvg-logo="",tvN (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00551&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00772.tving" tvg-name="EBS1 (tving)" group-title="지상파" tvg-logo="",EBS1 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00772&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00593.tving" tvg-name="YTN (tving)" group-title="종편/보도" tvg-logo="",YTN (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00593&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C01581.tving" tvg-name="TV CHOSUN (tving)" group-title="종편/보도" tvg-logo="",TV CHOSUN (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01581&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C01723.tving" tvg-name="연합뉴스TV (tving)" group-title="종편/보도" tvg-logo="",연합뉴스TV (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01723&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C01582.tving" tvg-name="JTBC (tving)" group-title="종편/보도" tvg-logo="",JTBC (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01582&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C01583.tving" tvg-name="채널A (tving)" group-title="종편/보도" tvg-logo="",채널A (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01583&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00708.tving" tvg-name="MBN (tving)" group-title="종편/보도" tvg-logo="",MBN (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00708&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C07381.tving" tvg-name="OCN (tving)" group-title="영화" tvg-logo="",OCN (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C07381&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C07382.tving" tvg-name="OCN Movies2 (tving)" group-title="영화" tvg-logo="",OCN Movies2 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C07382&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C04601.tving" tvg-name="OCN Movies (tving)" group-title="영화" tvg-logo="",OCN Movies (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C04601&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C51258.tving" tvg-name="tvN STORY (tving)" group-title="드라마/예능" tvg-logo="",tvN STORY (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C51258&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00579.tving" tvg-name="Mnet (tving)" group-title="드라마/예능" tvg-logo="",Mnet (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00579&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C01141.tving" tvg-name="tvN SHOW (tving)" group-title="드라마/예능" tvg-logo="",tvN SHOW (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01141&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C01143.tving" tvg-name="tvN DRAMA (tving)" group-title="드라마/예능" tvg-logo="",tvN DRAMA (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01143&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C15741.tving" tvg-name="JTBC2 (tving)" group-title="드라마/예능" tvg-logo="",JTBC2 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C15741&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C17141.tving" tvg-name="채널A플러스 (tving)" group-title="드라마/예능" tvg-logo="",채널A플러스 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C17141&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C22041.tving" tvg-name="JTBC4 (tving)" group-title="드라마/예능" tvg-logo="",JTBC4 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C22041&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00585.tving" tvg-name="TV CHOSUN 2 (tving)" group-title="드라마/예능" tvg-logo="",TV CHOSUN 2 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00585&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C17142.tving" tvg-name="MBN 플러스 (tving)" group-title="드라마/예능" tvg-logo="",MBN 플러스 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C17142&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00611.tving" tvg-name="LIFETIME (tving)" group-title="드라마/예능" tvg-logo="",LIFETIME (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00611&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C51263.tving" tvg-name="국회방송(NATV) (tving)" group-title="시사/교양" tvg-logo="",국회방송(NATV) (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C51263&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C01101.tving" tvg-name="YTN2 (tving)" group-title="시사/교양" tvg-logo="",YTN2 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01101&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C15347.tving" tvg-name="YTN사이언스 (tving)" group-title="시사/교양" tvg-logo="",YTN사이언스 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C15347&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C17341.tving" tvg-name="히스토리 (tving)" group-title="시사/교양" tvg-logo="",히스토리 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C17341&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C04042.tving" tvg-name="애니맥스 (tving)" group-title="애니/키즈" tvg-logo="",애니맥스 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C04042&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C05441.tving" tvg-name="ANIBOX (tving)" group-title="애니/키즈" tvg-logo="",ANIBOX (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C05441&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C06941.tving" tvg-name="투니버스 (tving)" group-title="애니/키즈" tvg-logo="",투니버스 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C06941&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00544.tving" tvg-name="중화TV (tving)" group-title="해외채널" tvg-logo="",중화TV (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00544&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C52299.tving" tvg-name="MBC 라디오 시사 (tving)" group-title="-" tvg-logo="",MBC 라디오 시사 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C52299&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C52300.tving" tvg-name="JTBC news 아카이브 (tving)" group-title="-" tvg-logo="",JTBC news 아카이브 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C52300&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C52286.tving" tvg-name="KBS NEWS 24 (tving)" group-title="-" tvg-logo="",KBS NEWS 24 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C52286&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C51404.tving" tvg-name="tvN SPORTS (tving)" group-title="-" tvg-logo="",tvN SPORTS (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C51404&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00901.tving" tvg-name="애니플러스 (tving)" group-title="-" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1400/C00901.png",애니플러스 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00901&stype=onair&pvrmode=pvr
